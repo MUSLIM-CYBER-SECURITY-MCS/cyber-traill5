@@ -281,8 +281,7 @@ def admin():
 	if bal =='1':
 		os.system('xdg-open https://wa.me/+8801401648565');time.sleep(1)
 		admin()
-	if bal =='2':
-		os.system('xdg-open' https://www.facebook.com/yt.sahan.x.ff);time.sleep(1)
+	if bal =='2'
 		admin()
 	if bal =='3':
 		#      os.system('xdg-open https://www.youtube.com/@SAHAN-404-KING');time.sleep(1)
